@@ -24,7 +24,7 @@ In particular, dependent patients are more vulnerable, especially during the nig
 
 In this project we try to apply data mining techniques to generate a real-time seizure detection model based on data collected through a matrix of pressure sensors installed in a mattress. The techniques used in this project include the extraction of time series features, the selection of attributes using genetic algorithms and the use of different ensembles for the generation of the model.
 
-Additionally, an Android application was developed to show the applicability of the model.
+Additionally, an Android application was developed to show the applicability of the model. 
 
 ---
 
